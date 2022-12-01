@@ -10,6 +10,5 @@ public class Print {
         //문자열 출력 및 편집 방법
         System.out.println("나는" + " \"자바\"야.");
         System.out.println("나는" + "\n자바야.");
-
     }
 }
